@@ -1,6 +1,0 @@
-Flight 1: Dallas, Houston (Time)
-Path 1: Dallas -> Houston. Time: 94 Cost: 120
-
-Flight 2: Chicago, Houston (Time)
-Path 1: Chicago -> Austin -> Houston. Time: 317 Cost: 277
-
